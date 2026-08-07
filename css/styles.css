@@ -724,4 +724,53 @@ nav.scrolled .nav-logo img {
     grid-template-columns: 1fr; /* una sola colonna */
     gap: 30px; /* spaziatura ridotta */
   }
+
+  .section-title { font-size: clamp(1.6rem, 3.3vw, 2.5rem); }
+
+  .hot-info h4 {
+  color: var(--blue);
+  margin-bottom: 8px;
+}
+
+.hot-price {
+  font-size: 0.2rem;
+}
+
+.hot-note {
+  font-size: 0.9rem;
+  color: var(--gray);
+}
+}
+
+.hot-section {
+  background: #fff5f5;
+  padding: 60px 5%;
+  border-radius: 12px;
+  box-shadow: 0 8px 28px rgba(255,87,87,0.15);
+}
+
+.hot-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffeaea;
+  padding: 20px;
+  border-radius: 10px;
+  border-left: 6px solid #ff5757;
+}
+
+.hot-info h4 {
+  color: var(--blue);
+  margin-bottom: 8px;
+}
+
+.hot-price {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #ff5757;
+}
+
+.hot-note {
+  font-size: 0.9rem;
+  color: var(--gray);
 }
