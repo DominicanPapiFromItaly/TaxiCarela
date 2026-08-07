@@ -1,13 +1,13 @@
 // ===== DATA CARELA =====
 let packages = [
-  { id:1, title:"Las Galeras", dest:"Dominican Republic", priceUSD:20, priceRD:1000, duration:1, desc:"Safe transfer from Samaná to Las Galeras, ideal for small groups.", img:"assets/Galeras.jpg", badge:"Popular", slots:3 },
+  { id:1, title:"Las Galeras", dest:"Dominican Republic", priceUSD:25, priceRD:1200, duration:1, desc:"Safe transfer from Samaná to Las Galeras, ideal for small groups.", img:"assets/Galeras.jpg", badge:"Popular", slots:3 },
   { id:2, title:"Santo Domingo", dest:"Dominican Republic", priceUSD:160, priceRD:9000, duration:1, desc:"Comfortable trip to the capital, with air conditioning and professional driver.", img:"assets/SantoDomingo.jpg", badge:"City", slots:3 },
   { id:3, title:"El Rincon", dest:"Dominican Republic", priceUSD:35, priceRD:1800, duration:1, desc:"Discover the hidden beach of El Rincón with private transport.", img:"assets/Rincon.jpg", badge:"Beach", slots:3 },
   { id:4, title:"Valle", dest:"Dominican Republic", priceUSD:20, priceRD:1000, duration:1, desc:"Quick and safe transfer to Valle, perfect for short getaways.", img:"assets/Valle.jpg", badge:"Local", slots:3 },
   { id:5, title:"Terrenas", dest:"Dominican Republic", priceUSD:40, priceRD:2200, duration:1, desc:"Direct connection to Las Terrenas, with comfort and reliability.", img:"assets/Terrenas.webp", badge:"Hot", slots:3 },
   { id:6, title:"El Limon", dest:"Dominican Republic", priceUSD:22, priceRD:1250, duration:1, desc:"Visit El Limón and its famous waterfall with private transport.", img:"assets/Limon.webp", badge:"Nature", slots:3 },
   { id:7, title:"Coson", dest:"Dominican Republic", priceUSD:50, priceRD:2700, duration:1, desc:"Premium transfer to Cosón, an exclusive and tranquil beach.", img:"assets/Coson.jpg", badge:"Luxury", slots:3 },
-  { id:8, title:"Cayo Levantado", dest:"Dominican Republic", priceUSD:20, priceRD:1000, duration:1, desc:"Direct access to Cayo Levantado, the most iconic island in Samaná.", img:"assets/Cayo.webp", badge:"Island", slots:3 },
+  { id:8, title:"Cayo Levantado", dest:"Dominican Republic", priceUSD:5, priceRD:250, duration:1, desc:"Direct access to Cayo Levantado, the most iconic island in Samaná.", img:"assets/Cayo.webp", badge:"Island", slots:3 },
   { id:9, title:"Playa Ermitaño", dest:"Dominican Republic", priceUSD:20, priceRD:1000, duration:1, desc:"Explore the paradisiacal Playa Ermitaño, a hidden gem in the Caribbean.", img:"assets/Ermitano.jpg", badge:"Hidden", slots:3 }
 ];
 

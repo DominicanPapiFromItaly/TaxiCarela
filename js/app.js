@@ -1,13 +1,13 @@
 // ===== DATA CARELA =====
 let packages = [
-  { id:1, title:"Las Galeras", dest:"República Dominicana", priceUSD:20, priceRD:1000, duration:1, desc:"Traslado seguro desde Samaná hasta Las Galeras, ideal para grupos pequeños.", img:"assets/Galeras.jpg", badge:"Popular", slots:3 },
+  { id:1, title:"Las Galeras", dest:"República Dominicana", priceUSD:25, priceRD:1200, duration:1, desc:"Traslado seguro desde Samaná hasta Las Galeras, ideal para grupos pequeños.", img:"assets/Galeras.jpg", badge:"Popular", slots:3 },
   { id:2, title:"Santo Domingo", dest:"República Dominicana", priceUSD:160, priceRD:9000, duration:1, desc:"Viaje cómodo hacia la capital, con aire acondicionado y chofer profesional.", img:"assets/SantoDomingo.jpg", badge:"Ciudad", slots:3 },
   { id:3, title:"El Rincon", dest:"República Dominicana", priceUSD:35, priceRD:1800, duration:1, desc:"Descubre la playa escondida de El Rincón con transporte privado.", img:"assets/Rincon.jpg", badge:"Playa", slots:3 },
   { id:4, title:"Valle", dest:"República Dominicana", priceUSD:20, priceRD:1000, duration:1, desc:"Traslado rápido y seguro hacia Valle, perfecto para escapadas cortas.", img:"assets/Valle.jpg", badge:"Local", slots:3 },
   { id:5, title:"Terrenas", dest:"República Dominicana", priceUSD:40, priceRD:2200, duration:1, desc:"Conexión directa a Las Terrenas, con comodidad y confianza.", img:"assets/Terrenas.webp", badge:"Caliente", slots:3 },
   { id:6, title:"El Limon", dest:"República Dominicana", priceUSD:22, priceRD:1250, duration:1, desc:"Visita El Limón y su famosa cascada con transporte privado.", img:"assets/Limon.webp", badge:"Naturaleza", slots:3 },
   { id:7, title:"Coson", dest:"República Dominicana", priceUSD:50, priceRD:2700, duration:1, desc:"Traslado premium hacia Cosón, playa exclusiva y tranquila.", img:"assets/Coson.jpg", badge:"Lujo", slots:3 },
-  { id:8, title:"Cayo Levantado", dest:"República Dominicana", priceUSD:20, priceRD:1000, duration:1, desc:"Acceso directo a Cayo Levantado, la isla más icónica de Samaná.", img:"assets/Cayo.webp", badge:"Isla", slots:3 },
+  { id:8, title:"Cayo Levantado", dest:"República Dominicana", priceUSD:5, priceRD:250, duration:1, desc:"Acceso directo a Cayo Levantado, la isla más icónica de Samaná.", img:"assets/Cayo.webp", badge:"Isla", slots:3 },
   { id:9, title:"Playa Ermitaño", dest:"República Dominicana", priceUSD:20, priceRD:1000, duration:1, desc:"Explora la paradisíaca Playa Ermitaño, un rincón secreto en el corazón del Caribe.", img:"assets/Ermitano.jpg", badge:"Oculto", slots:3 }
 ];
 
